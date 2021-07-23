@@ -1,0 +1,12 @@
+.container {
+    background-image: url("./images/background.jpeg");
+    height: 100vh;
+    display: flex;   
+}
+
+.card {
+    height: 50vh;
+    position: relative;
+    left: 350px;
+    top: 156px;
+}
